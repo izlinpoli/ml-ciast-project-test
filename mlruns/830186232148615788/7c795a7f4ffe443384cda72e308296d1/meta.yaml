@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/MSFRotPC04/Desktop/CIAST_ML_Siri%202/ml-project-1/mlruns/830186232148615788/7c795a7f4ffe443384cda72e308296d1/artifacts
+end_time: 1723080588392
+entry_point_name: ''
+experiment_id: '830186232148615788'
+lifecycle_stage: active
+run_id: 7c795a7f4ffe443384cda72e308296d1
+run_name: mysterious-mule-75
+run_uuid: 7c795a7f4ffe443384cda72e308296d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723080588314
+status: 3
+tags: []
+user_id: MSFRotPC04

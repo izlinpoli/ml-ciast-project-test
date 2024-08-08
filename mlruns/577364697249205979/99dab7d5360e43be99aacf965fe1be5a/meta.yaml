@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MSFRotPC04/Desktop/CIAST_ML_Siri%202/ml-project-1/mlruns/577364697249205979/99dab7d5360e43be99aacf965fe1be5a/artifacts
+end_time: 1723105282319
+entry_point_name: ''
+experiment_id: '577364697249205979'
+lifecycle_stage: active
+run_id: 99dab7d5360e43be99aacf965fe1be5a
+run_name: dazzling-whale-776
+run_uuid: 99dab7d5360e43be99aacf965fe1be5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723105275785
+status: 3
+tags: []
+user_id: MSFRotPC04

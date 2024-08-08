@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/MSFRotPC04/Desktop/CIAST_ML_Siri%202/ml-project-1/mlruns/830186232148615788/21e1bd7a33704fc598c30041e5736fb8/artifacts
+end_time: 1723083829220
+entry_point_name: ''
+experiment_id: '830186232148615788'
+lifecycle_stage: active
+run_id: 21e1bd7a33704fc598c30041e5736fb8
+run_name: decision_tree_3
+run_uuid: 21e1bd7a33704fc598c30041e5736fb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723083823387
+status: 3
+tags: []
+user_id: MSFRotPC04

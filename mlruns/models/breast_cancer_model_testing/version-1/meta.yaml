@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1723082027509
+current_stage: None
+description: ''
+last_updated_timestamp: 1723082027509
+name: breast_cancer_model_testing
+run_id: f3b6b639af88446282bc846e962e4180
+run_link: ''
+source: file:///c:/Users/MSFRotPC04/Desktop/CIAST_ML_Siri%202/ml-project-1/mlruns/830186232148615788/f3b6b639af88446282bc846e962e4180/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/MSFRotPC04/Desktop/CIAST_ML_Siri%202/ml-project-1/mlruns/830186232148615788/f3b6b639af88446282bc846e962e4180/artifacts/model
+user_id: null
+version: 1

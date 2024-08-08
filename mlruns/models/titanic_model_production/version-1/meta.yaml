@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1723093102002
+current_stage: None
+description: ''
+last_updated_timestamp: 1723093102002
+name: titanic_model_production
+run_id: c315e73ce7d84b449e40db9b8ad9001b
+run_link: ''
+source: file:///C:/Users/MSFRotPC04/Desktop/CIAST_ML_Siri%202/ml-project-1/mlruns/577364697249205979/c315e73ce7d84b449e40db9b8ad9001b/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/MSFRotPC04/Desktop/CIAST_ML_Siri%202/ml-project-1/mlruns/577364697249205979/c315e73ce7d84b449e40db9b8ad9001b/artifacts/model
+user_id: null
+version: 1

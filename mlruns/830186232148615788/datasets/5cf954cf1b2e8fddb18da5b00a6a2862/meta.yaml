@@ -1,0 +1,9 @@
+digest: 94089a2f
+name: dataset
+profile: '{"features_shape": [114, 30], "features_size": 3420, "features_nbytes":
+  27360}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 30]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "MSFRotPC04", "mlflow.source.name": "c:\\Users\\MSFRotPC04\\anaconda3\\envs\\ciast_ai01\\lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

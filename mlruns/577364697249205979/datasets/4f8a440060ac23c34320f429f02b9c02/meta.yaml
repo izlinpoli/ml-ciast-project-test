@@ -1,0 +1,11 @@
+digest: 25ddaf75
+name: dataset
+profile: '{"num_rows": 179, "num_elements": 1253}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Pclass", "required": true},
+  {"type": "double", "name": "Sex", "required": true}, {"type": "long", "name": "SibSp",
+  "required": true}, {"type": "long", "name": "Parch", "required": true}, {"type":
+  "double", "name": "Fare", "required": true}, {"type": "double", "name": "Embarked",
+  "required": true}, {"type": "double", "name": "AgeGroup", "required": true}]}'
+source: '{"tags": {"mlflow.user": "MSFRotPC04", "mlflow.source.name": "c:\\Users\\MSFRotPC04\\anaconda3\\envs\\ciast_ai01\\lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
